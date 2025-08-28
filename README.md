@@ -1,5 +1,5 @@
 # Online Shopping Analysis
-![banner](https://github.com/YashaswiniBaglakadi/Online-Shopping-Analysis/blob/dfe08a71288e2cb568f8cd4509bc5c9a9e1ae4e3/images/online-shopping-concept.jpg)
+![banner](https://github.com/YashaswiniBaglakadi/Online-Shopping-Analysis/blob/378809d48727b988dfb2d947d83e9809b5a2a47e/images/Screenshot%202025-08-28%20212850.png)
 ## 📌 Project Overview
 This provides a comprehensive analysis of sales and performance data from an online 
 grocery platform.
